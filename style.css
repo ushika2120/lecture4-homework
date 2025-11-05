@@ -1,0 +1,114 @@
+*{margin: 0;
+box-sizing: border-box;
+}
+.box_main{
+height: 100vh;
+background-color:#FFFFFF ;
+margin-top: px;
+display:flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 80px;
+}
+.box_desktop{ width: 1440px;
+height: 800px;
+background-color: #D5E1EF;
+border: 1px solid #FFFFFF;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.box_1{ width: 320px;
+height: 497px;
+background-color: #FFFFFF;
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.box_2{ width:288px;
+height: 286px;
+background-color: #2C7DFA;
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+display:flex;
+justify-content: center;
+align-items: center;
+}
+.box_3{ width: 287px;
+height: 191px;
+background-color:#FFFFFF;
+border: 1px solid #FFFFFF;
+}
+.box_4{ width: 288px;
+height: 60px;
+border: 1px solid #FFFFFF;
+display:flex;
+justify-content: center;
+align-items: center;
+}
+.improveskills{ font-weight: 700;
+font-size: 22px;
+color:#1F314F ;
+}
+ .scanQR{ font-weight: 400;
+font-size: 15px;
+color: #7D889E;
+}
+.box_5{ width: 288px;
+height: 90px;
+display: flex;
+flex-direction: column;
+justify-content:space-around;
+align-items: center;
+}
+
+.box_mobile{ width: 375px;
+height: 667px;
+display: flex;
+justify-content: center;
+align-items:center;
+
+background-color:#D5E1EF ;
+border: 1px solid #D5E1EF
+}
+.box_6{
+    width: 320px;
+    height: 497px;
+    background-color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 20px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+}
+.box_7{ width: 288px;
+height: 286px;
+background-color:#2C7DFA;
+border: 1px solid #2C7DFA;
+border-radius: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.box_8{ width: 287px;
+height: 191px;
+background-color:#FFFFFF ;
+border: 1px solid #FFFFFF ;
+}
+.box_9{ width: 288px;
+height: 60px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.box_10{ width: 288px;
+height: 90px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;}
