@@ -47,22 +47,25 @@ border: 1px solid #FFFFFF;
 height: 60px;
 border: 1px solid #FFFFFF;
 display:flex;
+flex-direction: column;
 justify-content: center;
-align-items: center;
+gap: 10px;
 }
-.improveskills{ font-weight: 700;
+.improveskills{ 
+font-weight: 700;
 font-size: 22px;
 color:#1F314F ;
+text-align: center;
 }
  .scanQR{ font-weight: 400;
 font-size: 15px;
 color: #7D889E;
+text-align: center;
 }
 .box_5{ width: 288px;
 height: 90px;
 display: flex;
 flex-direction: column;
-justify-content:space-around;
-align-items: center;
+justify-content:center;
 }
 
